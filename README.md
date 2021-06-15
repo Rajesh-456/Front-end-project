@@ -20,3 +20,4 @@ This is an front end project by using reactjs.
     2. integers
     3. natural numbers
  
+![taj mahal](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
