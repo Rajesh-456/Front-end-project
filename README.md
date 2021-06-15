@@ -16,6 +16,4 @@ This is an front end project by using reactjs.
  ## ordered list
  1. Alphabets
  2. Digits
-   1.whole numbers
-   2.natural numbers
-   3.integers
+ 
